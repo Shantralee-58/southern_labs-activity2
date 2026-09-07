@@ -1,7 +1,7 @@
 BEGIN
     INPUT enter_age
     IF
-        age >= 18
+        age == 18
     THEN
     DISPLAY Welcome to southern labs!
     ELSE
